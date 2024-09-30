@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "S1vqTlMdoIApfSyy1nwIqajfoQlrrT9uCHYDjj0OoxupFj48bAXU1g2fzPd02tkZQtVyZGySnmjGd17NYKbqvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\magnu\\source\\repos\\tracks\\Solvers\\CSharp\\TracksSolver\\TracksSolver.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\magnu\\.nuget\\packages\\commandlineparser\\2.9.1\\commandlineparser.2.9.1.nupkg.sha512"
+  ],
+  "logs": []
+}
